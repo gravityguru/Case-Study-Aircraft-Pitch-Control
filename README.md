@@ -26,4 +26,8 @@ https://ctms.engin.umich.edu/CTMS/index.php?example=AircraftPitch&section=Contro
 
 
 
+Root-Lcus Based Controller:
+https://youtu.be/3NLoPjOPmdU
+
+PID Controller:
 https://youtu.be/vxDltsTVl0I
