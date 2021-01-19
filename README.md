@@ -31,3 +31,11 @@ https://youtu.be/3NLoPjOPmdU
 
 PID Controller:
 https://youtu.be/vxDltsTVl0I
+
+
+LQR Controller:
+https://youtu.be/lU_aUMX9794
+
+
+Lead Compensator:
+https://youtu.be/ShmrshB9eOU
