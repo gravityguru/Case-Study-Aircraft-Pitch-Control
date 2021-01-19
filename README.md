@@ -28,7 +28,6 @@ Source: Control Tutorials by Michigan Uniiversity
 https://ctms.engin.umich.edu/CTMS/index.php?example=AircraftPitch&section=ControlDigital
 
 
-
 Root-Lcus Based Controller:
 https://youtu.be/3NLoPjOPmdU
 
@@ -42,3 +41,7 @@ https://youtu.be/lU_aUMX9794
 
 Lead Compensator:
 https://youtu.be/ShmrshB9eOU
+
+Interested to work on this?
+# Linked-in:
+https://www.linkedin.com/in/gurunayk-nayak-09043390/
