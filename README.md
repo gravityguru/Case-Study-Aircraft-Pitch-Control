@@ -18,9 +18,12 @@ Assumptions:
 Analysis Carried out:
 
 •	Open Loop Response, Closed loop response, PID Controller Design, Controller Design using root-locus approach, LQR Design, Controller Design Via. Pole placement techniques.
+
+
 Tools Used to implement:
 
 MATLAB, Simulink, Flightgear.
+
 Source: Control Tutorials by Michigan Uniiversity
 https://ctms.engin.umich.edu/CTMS/index.php?example=AircraftPitch&section=ControlDigital
 
